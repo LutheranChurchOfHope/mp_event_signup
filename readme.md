@@ -1,6 +1,6 @@
 # Remove Date and Time from Event Title
 
-Script for removing the date and time from the event title on the event signup / registration page on your[MinistryPlatform](https://www.ministryplatform.com) church portal.
+Script for removing the date and time from the event title on the event signup / registration page on your [MinistryPlatform](https://www.ministryplatform.com) church portal.
 
 Please review the Think Ministry Knowledge Base for [altering](http://www.thinkministry.com/kb/portal/configuration/skins/alter/) and [deploying](http://www.thinkministry.com/kb/portal/configuration/skins/deploy/) skins on your portal.
 
